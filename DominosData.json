@@ -1,7 +1,7 @@
 [
     { "id": 1, "name": "Margherita Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/c3eacd50-8c42-11ef-9be6-e7f248291712-double-melt-2024-10-17044625.webp" },
     { "id": 2, "name": "Pepperoni Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/ea2652a0-5ae7-11ef-b61e-39695757071d-CheeseBurst-2024-08-15092238.jpg" },
-    { "id": 3, "name": "Hawaiian Pizza", "category": "Pizzas", "image": "https://example.com/images/hawaiian-pizza.jpg" },
+    { "id": 3, "name": "Hawaiian Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/b2009180-9cda-11ef-bf94-4552bcb9a3dd-Veggie-HandTossedTopcopy_variant_0-2024-11-07073417.jpg" },
     { "id": 4, "name": "Veggie Supreme Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/c38c0b80-8c42-11ef-9208-b10090f9e082-New-yorker-2024-10-17044624.webp" },
     { "id": 5, "name": "BBQ Chicken Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/c755bdb0-8c42-11ef-b006-57f62fd9a473-suoer-laoded-2024-10-17044631.webp" },
     { "id": 6, "name": "Cheese Burst Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/b2006a70-9cda-11ef-9ba0-8f6ccd20db1e-SeekhKabab-HandTossedTop2_variant_0-2024-11-07073417.jpg" },
