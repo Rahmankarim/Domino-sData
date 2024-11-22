@@ -1,29 +1,185 @@
 [
-    { "id": 1, "name": "Margherita Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/c3eacd50-8c42-11ef-9be6-e7f248291712-double-melt-2024-10-17044625.webp" },
-    { "id": 2, "name": "Pepperoni Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/ea2652a0-5ae7-11ef-b61e-39695757071d-CheeseBurst-2024-08-15092238.jpg" },
-    { "id": 3, "name": "Hawaiian Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/b2009180-9cda-11ef-bf94-4552bcb9a3dd-Veggie-HandTossedTopcopy_variant_0-2024-11-07073417.jpg" },
-    { "id": 4, "name": "Veggie Supreme Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/c38c0b80-8c42-11ef-9208-b10090f9e082-New-yorker-2024-10-17044624.webp" },
-    { "id": 5, "name": "BBQ Chicken Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/c755bdb0-8c42-11ef-b006-57f62fd9a473-suoer-laoded-2024-10-17044631.webp" },
-    { "id": 6, "name": "Cheese Burst Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/b2006a70-9cda-11ef-9ba0-8f6ccd20db1e-SeekhKabab-HandTossedTop2_variant_0-2024-11-07073417.jpg" },
-    { "id": 7, "name": "Chicken Tikka Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/74893f50-9cda-11ef-ad5d-6d48338cfab8-HawaiianChicken-HandTossedTopcopy_variant_0-2024-11-07073234.jpg" },
-    { "id": 8, "name": "BBQ Veggie Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/b3bd35a0-9cda-11ef-a9ad-13554758a2ab-SuperCheese-HandTossedTop_variant_0-2024-11-07073420.jpg" },
-    { "id": 9, "name": "Cheese Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/74893f50-9cda-11ef-ad5d-6d48338cfab8-BBQChicken_variant_0-2024-11-07073234.jpg" },
-    { "id": 10, "name": "Meat Lovers Pizza", "category": "Pizzas", "image": "https://www.dominos.com.pk/images/b2009180-9cda-11ef-bf94-4552bcb9a3dd-Veggie-HandTossedTopcopy_variant_0-2024-11-07073417.jpg" },
-    
-    { "id": 11, "name": "Chicken Tikka Melt", "category": "Meltz", "image": "https://www.dominos.com.pk/images/58efb5e0-9c0c-11ef-bba4-793477daa05d-Chiken-Tikka_variant_0-2024-11-06065711.jpg" },
-    { "id": 12, "name": "Veggie Melt", "category": "Meltz", "image": "https://www.dominos.com.pk/images/6fe385d0-a18c-11ef-8ba0-773b2a7f356a-Veggie_variant_0-2024-11-13065641.jpg" },
-    { "id": 13, "name": "Spicy Legend Ranch Melt", "category": "Meltz", "image": "https://www.dominos.com.pk/images/561f7ee0-9c0c-11ef-8cba-a501f9a9d33c-Spicy-Legend-Ranch_variant_0-2024-11-06065707.jpg" },
-    { "id": 14, "name": "Pepperoni Melt", "category": "Meltz", "image": "https://www.dominos.com.pk/images/58ef67c0-9c0c-11ef-a0ab-8bb78e0710e7-Pepperoni_variant_0-2024-11-06065711.jpg" },
-
-    { "id": 15, "name": "Choco Bread Twist", "category": "Desserts", "image": "https://www.dominos.com.pk/images/561fcd00-9c0c-11ef-9a76-1f6f1b37f3c8-Choco-Bread-Twist_variant_0-2024-11-06065707.jpg" },
-    { "id": 16, "name": "Cinnastix", "category": "Desserts", "image": "https://www.dominos.com.pk/images/58efb5e0-9c0c-11ef-bba4-793477daa05d-Cinnastix_variant_0-2024-11-06065711.jpg" },
-    { "id": 17, "name": "Lava Cake", "category": "Desserts", "image": "https://www.dominos.com.pk/images/58ef8ed0-9c0c-11ef-8548-d516d5226edf-Lava-Cake_variant_0-2024-11-06065711.jpg" },
-    { "id": 18, "name": "Choco Bread", "category": "Desserts", "image": "https://www.dominos.com.pk/images/58ef67c0-9c0c-11ef-a0ab-8bb78e0710e7-Choco-Bread-copy_variant_0-2024-11-06065711.jpg" },
-    { "id": 19, "name": "Lava Cake (Single Serving)", "category": "Desserts", "image": "https://www.dominos.com.pk/images/58ef67c0-9c0c-11ef-a781-9112538a4c9a-Lava-Cake---Single-Serving_variant_0-2024-11-06065711.jpg" },
-    
-    { "id": 25, "name": "Dynamite Kickers", "category": "Sides", "image": "https://www.dominos.com.pk/images/58ef8ed0-9c0c-11ef-8548-d516d5226edf-Dynamite-Kickers_variant_0-2024-11-06065711.jpg" },
-    { "id": 26, "name": "Chicken Wings", "category": "Sides", "image": "https://www.dominos.com.pk/images/561f7ee0-9c0c-11ef-8cba-a501f9a9d33c-Chicken-Wings_variant_0-2024-11-06065707.jpg" },
-    { "id": 27, "name": "Twisted Dough Balls", "category": "Sides", "image": "https://www.dominos.com.pk/images/4c9a0e80-9c0c-11ef-bff6-bf27d5d23f5e-Twisted-Dough-Balls_variant_0-2024-11-06065651.jpg" },
-    { "id": 28, "name": "Chicken Kickers", "category": "Sides", "image": "https://www.dominos.com.pk/images/4c9a0e80-9c0c-11ef-bff6-bf27d5d23f5e-Chicken-Kickers_variant_0-2024-11-06065651.jpg" },
-    { "id": 29, "name": "Potato Wedges", "category": "Sides", "image": "https://www.dominos.com.pk/images/561fcd00-9c0c-11ef-9a76-1f6f1b37f3c8-Potato-Wedges_variant_0-2024-11-06065707.jpg" }
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "category": "Pizzas",
+      "image": "https://www.dominos.com.pk/images/c3eacd50-8c42-11ef-9be6-e7f248291712-double-melt-2024-10-17044625.webp",
+      "description": "Classic pizza with fresh tomatoes, mozzarella, and basil",
+      "price": 399,
+      "addons": {
+        "size": [
+          { "option": "Small", "price": 399 },
+          { "option": "Medium", "price": 450 },
+          { "option": "Large", "price": 499 }
+        ],
+        "crust": [
+          { "option": "Thin", "price": 0 },
+          { "option": "Thick", "price": 30 },
+          { "option": "Cheese Stuffed", "price": 50 }
+        ],
+        "sauce": [
+          { "option": "Tomato", "price": 0 },
+          { "option": "Pesto", "price": 0 },
+          { "option": "Garlic", "price": 0 }
+        ],
+        "extraToppings": [
+          { "option": "None", "price": 0 },
+          { "option": "Olives", "price": 20 },
+          { "option": "Cheese", "price": 50 },
+          { "option": "Mushrooms", "price": 30 }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni Pizza",
+      "category": "Pizzas",
+      "image": "https://www.dominos.com.pk/images/ea2652a0-5ae7-11ef-b61e-39695757071d-CheeseBurst-2024-08-15092238.jpg",
+      "description": "Pepperoni slices with mozzarella cheese",
+      "price": 450,
+      "addons": {
+        "size": [
+          { "option": "Small", "price": 450 },
+          { "option": "Medium", "price": 500 },
+          { "option": "Large", "price": 550 }
+        ],
+        "crust": [
+          { "option": "Thin", "price": 0 },
+          { "option": "Thick", "price": 30 },
+          { "option": "Cheese Stuffed", "price": 50 }
+        ],
+        "sauce": [
+          { "option": "Tomato", "price": 0 },
+          { "option": "BBQ", "price": 0 },
+          { "option": "Garlic", "price": 0 }
+        ],
+        "extraToppings": [
+          { "option": "None", "price": 0 },
+          { "option": "Jalapenos", "price": 20 },
+          { "option": "Olives", "price": 30 }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Hawaiian Pizza",
+      "category": "Pizzas",
+      "image": "https://www.dominos.com.pk/images/b2009180-9cda-11ef-bf94-4552bcb9a3dd-Veggie-HandTossedTopcopy_variant_0-2024-11-07073417.jpg",
+      "description": "A tropical blend of chicken and pineapple",
+      "price": 469,
+      "addons": {
+        "size": [
+          { "option": "Small", "price": 469 },
+          { "option": "Medium", "price": 520 },
+          { "option": "Large", "price": 570 }
+        ],
+        "crust": [
+          { "option": "Thin", "price": 0 },
+          { "option": "Thick", "price": 30 },
+          { "option": "Cheese Stuffed", "price": 50 }
+        ],
+        "sauce": [
+          { "option": "BBQ", "price": 0 },
+          { "option": "Ranch", "price": 0 },
+          { "option": "Garlic", "price": 0 }
+        ],
+        "extraToppings": [
+          { "option": "None", "price": 0 },
+          { "option": "Pineapple", "price": 30 },
+          { "option": "Cheese", "price": 50 }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Veggie Supreme Pizza",
+      "category": "Pizzas",
+      "image": "https://www.dominos.com.pk/images/c38c0b80-8c42-11ef-9208-b10090f9e082-New-yorker-2024-10-17044624.webp",
+      "description": "A healthy blend of veggies including bell peppers and olives",
+      "price": 499,
+      "addons": {
+        "size": [
+          { "option": "Small", "price": 499 },
+          { "option": "Medium", "price": 550 },
+          { "option": "Large", "price": 600 }
+        ],
+        "crust": [
+          { "option": "Thin", "price": 0 },
+          { "option": "Thick", "price": 30 },
+          { "option": "Cheese Stuffed", "price": 50 }
+        ],
+        "sauce": [
+          { "option": "Tomato", "price": 0 },
+          { "option": "BBQ", "price": 0 },
+          { "option": "Ranch", "price": 0 }
+        ],
+        "extraToppings": [
+          { "option": "None", "price": 0 },
+          { "option": "Olives", "price": 20 },
+          { "option": "Mushrooms", "price": 30 },
+          { "option": "Extra Cheese", "price": 50 }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "BBQ Chicken Pizza",
+      "category": "Pizzas",
+      "image": "https://www.dominos.com.pk/images/c755bdb0-8c42-11ef-b006-57f62fd9a473-suoer-laoded-2024-10-17044631.webp",
+      "description": "Juicy BBQ chicken with a tangy sauce",
+      "price": 499,
+      "addons": {
+        "size": [
+          { "option": "Small", "price": 499 },
+          { "option": "Medium", "price": 550 },
+          { "option": "Large", "price": 600 }
+        ],
+        "crust": [
+          { "option": "Thin", "price": 0 },
+          { "option": "Thick", "price": 30 },
+          { "option": "Cheese Stuffed", "price": 50 }
+        ],
+        "sauce": [
+          { "option": "BBQ", "price": 0 },
+          { "option": "Ranch", "price": 0 },
+          { "option": "Garlic", "price": 0 }
+        ],
+        "extraToppings": [
+          { "option": "None", "price": 0 },
+          { "option": "Onions", "price": 20 },
+          { "option": "Cheese", "price": 50 },
+          { "option": "Jalapenos", "price": 30 }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Cheese Burst Pizza",
+      "category": "Pizzas",
+      "image": "https://www.dominos.com.pk/images/b2006a70-9cda-11ef-9ba0-8f6ccd20db1e-SeekhKabab-HandTossedTop2_variant_0-2024-11-07073417.jpg",
+      "description": "Extra cheesy, with cheese bursts inside the crust",
+      "price": 549,
+      "addons": {
+        "size": [
+          { "option": "Small", "price": 549 },
+          { "option": "Medium", "price": 600 },
+          { "option": "Large", "price": 650 }
+        ],
+        "crust": [
+          { "option": "Thin", "price": 0 },
+          { "option": "Thick", "price": 30 },
+          { "option": "Cheese Stuffed", "price": 50 }
+        ],
+        "sauce": [
+          { "option": "None", "price": 0 },
+          { "option": "BBQ", "price": 0 },
+          { "option": "Ranch", "price": 0 }
+        ],
+        "extraToppings": [
+          { "option": "None", "price": 0 },
+          { "option": "Extra Cheese", "price": 50 },
+          { "option": "Triple Cheese", "price": 75 }
+        ]
+      }
+    }
 ]
