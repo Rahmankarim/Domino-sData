@@ -132,7 +132,7 @@
       "id": 5,
       "name": "Veggie Supreme",
       "category": "Pizzas",
-      "image": "https://www.dominos.com.pk/images/veggie-supreme-image.jpg",
+      "image": "https://www.dominos.com.pk/images/b2009180-9cda-11ef-bf94-4552bcb9a3dd-Veggie-HandTossedTopcopy_variant_0-2024-11-07073417.jpg",
       "description": "Loaded with fresh veggies for a garden-fresh taste.",
       "price": 450,
       "addons": {
@@ -163,7 +163,7 @@
       "id": 6,
       "name": "Pepperoni Classic",
       "category": "Pizzas",
-      "image": "https://www.dominos.com.pk/images/pepperoni-classic-image.jpg",
+      "image": "https://www.dominos.com.pk/images/b3bd0e90-9cda-11ef-a56b-bd0f160c165f-PepperoniHot-HandTossedTopcopy_variant_0-2024-11-07073420.jpg",
       "description": "The timeless pepperoni pizza for meat lovers.",
       "price": 550,
       "addons": {
@@ -195,7 +195,7 @@
       "id": 7,
       "name": "BBQ Chicken Feast",
       "category": "Pizzas",
-      "image": "https://www.dominos.com.pk/images/bbq-chicken-feast-image.jpg",
+      "image": "https://www.dominos.com.pk/images/74893f50-9cda-11ef-ad5d-6d48338cfab8-BBQChicken_variant_0-2024-11-07073234.jpg",
       "description": "Savor the smoky flavor of BBQ chicken and premium toppings.",
       "price": 600,
       "addons": {
@@ -226,7 +226,7 @@
       "id": 8,
       "name": "Chicken Tikka",
       "category": "Pizzas",
-      "image": "https://www.dominos.com.pk/images/chicken-tikka-image.jpg",
+      "image": "https://www.dominos.com.pk/images/b200b890-9cda-11ef-9e10-97371a1b8bae-CreamyTikka-HandTossedTopcopy_variant_0-2024-11-07073417.jpg",
       "description": "Spicy chicken tikka with authentic Desi flavors.",
       "price": 580,
       "addons": {
@@ -257,7 +257,7 @@
       "id": 9,
       "name": "Meat Lovers",
       "category": "Pizzas",
-      "image": "https://www.dominos.com.pk/images/meat-lovers-image.jpg",
+      "image": "https://www.dominos.com.pk/images/b3bc4b40-9cda-11ef-ba83-a7a549835d14-PeriPeri-HandTossedTopcopy_variant_0-2024-11-07073420.jpg",
       "description": "Loaded with all your favorite meats for a hearty feast.",
       "price": 650,
       "addons": {
@@ -289,7 +289,7 @@
         "id": 10,
         "name": "Spicy Jalapeño Fiesta",
         "category": "Pizzas",
-        "image": "https://www.dominos.com.pk/images/spicy-jalapeno-image.jpg",
+        "image": "https://www.dominos.com.pk/images/74893f50-9cda-11ef-ad5d-6d48338cfab8-Extravaganza-HandTossedTopcopy2_variant_0-2024-11-07073234.jpg",
         "description": "A fiery mix of jalapeños, cheese, and bold spices.",
         "price": 550,
         "addons": {
@@ -320,7 +320,7 @@
         "id": 11,
         "name": "Hawaiian Classic",
         "category": "Pizzas",
-        "image": "https://www.dominos.com.pk/images/hawaiian-classic-image.jpg",
+        "image": "https://www.dominos.com.pk/images/74893f50-9cda-11ef-ad5d-6d48338cfab8-HawaiianChicken-HandTossedTopcopy_variant_0-2024-11-07073234.jpg",
         "description": "Sweet pineapple paired with savory ham for a tropical delight.",
         "price": 580,
         "addons": {
@@ -347,104 +347,11 @@
           ]
         }
       },
-      {
-        "id": 12,
-        "name": "Margarita",
-        "category": "Pizzas",
-        "image": "https://www.dominos.com.pk/images/margarita-image.jpg",
-        "description": "A simple yet flavorful combination of tomato sauce, mozzarella, and fresh basil.",
-        "price": 520,
-        "addons": {
-          "size": [
-            { "option": "Small", "price": 520 },
-            { "option": "Medium", "price": 570 },
-            { "option": "Large", "price": 620 }
-          ],
-          "crust": [
-            { "option": "Thin", "price": 0 },
-            { "option": "Thick", "price": 30 },
-            { "option": "Cheese Stuffed", "price": 50 }
-          ],
-          "sauce": [
-            { "option": "Tomato Basil", "price": 0 },
-            { "option": "Garlic", "price": 10 },
-            { "option": "Pesto", "price": 20 }
-          ],
-          "extraToppings": [
-            { "option": "None", "price": 0 },
-            { "option": "Extra Cheese", "price": 50 },
-            { "option": "Basil", "price": 10 },
-            { "option": "Cherry Tomatoes", "price": 20 }
-          ]
-        }
-      },
-      {
-        "id": 13,
-        "name": "Four Cheese Deluxe",
-        "category": "Pizzas",
-        "image": "https://www.dominos.com.pk/images/four-cheese-image.jpg",
-        "description": "An indulgent mix of mozzarella, cheddar, parmesan, and gouda.",
-        "price": 600,
-        "addons": {
-          "size": [
-            { "option": "Small", "price": 600 },
-            { "option": "Medium", "price": 650 },
-            { "option": "Large", "price": 700 }
-          ],
-          "crust": [
-            { "option": "Thin", "price": 0 },
-            { "option": "Thick", "price": 30 },
-            { "option": "Cheese Stuffed", "price": 50 }
-          ],
-          "sauce": [
-            { "option": "Cheese Sauce", "price": 0 },
-            { "option": "Garlic", "price": 15 },
-            { "option": "Tomato", "price": 10 }
-          ],
-          "extraToppings": [
-            { "option": "None", "price": 0 },
-            { "option": "Extra Mozzarella", "price": 50 },
-            { "option": "Cheddar", "price": 40 },
-            { "option": "Parmesan", "price": 30 }
-          ]
-        }
-      },
-      {
-        "id": 14,
-        "name": "Mediterranean Veggie",
-        "category": "Pizzas",
-        "image": "https://www.dominos.com.pk/images/mediterranean-veggie-image.jpg",
-        "description": "A vibrant mix of sun-dried tomatoes, olives, feta, and artichokes.",
-        "price": 590,
-        "addons": {
-          "size": [
-            { "option": "Small", "price": 590 },
-            { "option": "Medium", "price": 640 },
-            { "option": "Large", "price": 690 }
-          ],
-          "crust": [
-            { "option": "Thin", "price": 0 },
-            { "option": "Thick", "price": 30 },
-            { "option": "Cheese Stuffed", "price": 50 }
-          ],
-          "sauce": [
-            { "option": "Pesto", "price": 0 },
-            { "option": "Garlic Ranch", "price": 15 },
-            { "option": "Tomato", "price": 10 }
-          ],
-          "extraToppings": [
-            { "option": "None", "price": 0 },
-            { "option": "Feta Cheese", "price": 60 },
-            { "option": "Olives", "price": 30 },
-            { "option": "Artichokes", "price": 40 }
-          ]
-        }
-      },
         {
           "id": 15,
           "name": "Garlic Bread Sticks",
           "category": "Sides",
-          "image": "https://www.dominos.com.pk/images/garlic-breadsticks.jpg",
+          "image": "https://www.dominos.com.pk/images/561f7ee0-9c0c-11ef-8241-d70815871548-Cheesy-Garlic-Bread_variant_0-2024-11-06065707.jpg",
           "description": "Freshly baked breadsticks brushed with a blend of garlic and herbs, served with a dipping sauce.",
           "price": 300,
           "addons": null
@@ -453,7 +360,7 @@
           "id": 16,
           "name": "Chocolate Lava Cake",
           "category": "Desserts",
-          "image": "https://www.dominos.com.pk/images/chocolate-lava.jpg",
+          "image": "https://www.dominos.com.pk/images/58ef8ed0-9c0c-11ef-8548-d516d5226edf-Lava-Cake_variant_0-2024-11-06065711.jpg",
           "description": "Rich and gooey chocolate cake with a molten center, served warm.",
           "price": 400,
           "addons": null
@@ -462,7 +369,7 @@
           "id": 17,
           "name": "Coke",
           "category": "Drinks",
-          "image": "https://www.dominos.com.pk/images/coke.jpg",
+          "image": "https://www.dominos.com.pk/images/4c9a0e80-9c0c-11ef-bff6-bf27d5d23f5e-Pepsi_variant_0-2024-11-06065651.jpg",
           "description": "Chilled refreshing Coca-Cola.",
           "price": 120,
           "addons": {
@@ -476,7 +383,7 @@
           "id": 18,
           "name": "Chicken Pepperoni Meltz",
           "category": "Meltz",
-          "image": "https://www.dominos.com.pk/images/chicken-pepperoni-meltz.jpg",
+          "image": "https://www.dominos.com.pk/images/6fe337b0-a18c-11ef-a06d-878bb43da573-Chicken-Supreme_variant_0-2024-11-13065641.jpg",
           "description": "Crispy folded crust filled with chicken pepperoni, cheese, and special spices.",
           "price": 500,
           "addons": null
@@ -485,16 +392,16 @@
           "id": 19,
           "name": "Cheesy Garlic Dip",
           "category": "Sides",
-          "image": "https://www.dominos.com.pk/images/cheesy-garlic-dip.jpg",
+          "image": "https://www.dominos.com.pk/images/6fe385d0-a18c-11ef-8ba0-773b2a7f356a-Super-Cheese_variant_0-2024-11-13065641.jpg",
           "description": "A creamy garlic dip with a cheesy twist, perfect for your sides.",
           "price": 100,
           "addons": null
         },
         {
           "id": 20,
-          "name": "Mango Smoothie",
+          "name": "Mango ",
           "category": "Drinks",
-          "image": "https://www.dominos.com.pk/images/mango-smoothie.jpg",
+          "image": "https://www.dominos.com.pk/images/4c9a5ca0-9c0c-11ef-bf1d-5b436e810e45-Miranda_variant_0-2024-11-06065651.jpg",
           "description": "A refreshing mango smoothie to cool you down.",
           "price": 250,
           "addons": null
@@ -503,25 +410,25 @@
             "id": 21,
             "name": "Chicken Wings",
             "category": "Sides",
-            "image": "https://www.dominos.com.pk/images/chicken-wings.jpg",
+            "image": "https://www.dominos.com.pk/images/561f7ee0-9c0c-11ef-8cba-a501f9a9d33c-Chicken-Wings_variant_0-2024-11-06065707.jpg",
             "description": "Crispy and juicy chicken wings tossed in your choice of BBQ or spicy sauce.",
             "price": 550,
             "addons": null
           },
           {
             "id": 22,
-            "name": "Tiramisu",
+            "name": "Cinnastix",
             "category": "Desserts",
-            "image": "https://www.dominos.com.pk/images/tiramisu.jpg",
+            "image": "https://www.dominos.com.pk/images/58efb5e0-9c0c-11ef-bba4-793477daa05d-Cinnastix_variant_0-2024-11-06065711.jpg",
             "description": "A classic Italian dessert layered with mascarpone cream and espresso-soaked ladyfingers.",
             "price": 500,
             "addons": null
           },
           {
             "id": 23,
-            "name": "Sprite",
+            "name": "7up",
             "category": "Drinks",
-            "image": "https://www.dominos.com.pk/images/sprite.jpg",
+            "image": "https://www.dominos.com.pk/images/58ef67c0-9c0c-11ef-a781-9112538a4c9a-7up_variant_0-2024-11-06065711.jpg",
             "description": "Crisp and refreshing lemon-lime soda.",
             "price": 120,
             "addons": {
@@ -535,16 +442,16 @@
             "id": 24,
             "name": "Veggie Meltz",
             "category": "Meltz",
-            "image": "https://www.dominos.com.pk/images/veggie-meltz.jpg",
+            "image": "https://www.dominos.com.pk/images/6fe385d0-a18c-11ef-8ba0-773b2a7f356a-Veggie_variant_0-2024-11-13065641.jpg",
             "description": "A crispy fold stuffed with fresh veggies, mozzarella, and flavorful seasonings.",
             "price": 450,
             "addons": null
           },
           {
             "id": 25,
-            "name": "Stuffed Cheesy Bread",
+            "name": "Dynamite Kickers",
             "category": "Sides",
-            "image": "https://www.dominos.com.pk/images/stuffed-cheesy-bread.jpg",
+            "image": "https://www.dominos.com.pk/images/58ef8ed0-9c0c-11ef-8548-d516d5226edf-Dynamite-Kickers_variant_0-2024-11-06065711.jpg",
             "description": "Warm, oven-baked bread filled with gooey melted cheese.",
             "price": 400,
             "addons": null
@@ -553,7 +460,7 @@
             "id": 26,
             "name": "Choco Brownie",
             "category": "Desserts",
-            "image": "https://www.dominos.com.pk/images/choco-brownie.jpg",
+            "image": "https://www.dominos.com.pk/images/58ef67c0-9c0c-11ef-a0ab-8bb78e0710e7-Choco-Bread-copy_variant_0-2024-11-06065711.jpg",
             "description": "A decadent chocolate brownie, perfect for dessert lovers.",
             "price": 450,
             "addons": null
